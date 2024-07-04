@@ -1,0 +1,25 @@
+.curriculo__conteudo__subtitulo {
+    font-family: var(--fonte-secundaria);
+}
+
+.curriculo__conteudo__regua {
+    display: block;
+    background-color: var(--cor-regua); 
+    height: 3px; 
+    width: 100%;
+}
+
+.curriculo__conteudo__texto {
+    font-size: 0.75rem;
+    font-family: var(--fonte-secundaria);
+}
+
+.curriculo__conteudo__tabela {
+    text-align: left;
+    font-family: var(--fonte-secundaria);
+    font-size: 0.75rem;
+}
+
+.curriculo__conteudo__tabela__linha {
+    font-size: 0.875rem;
+}
